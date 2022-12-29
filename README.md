@@ -8,7 +8,7 @@ Functional Electrical Stimulation (FES) is an assistive technology commonly used
 
 
 ## Demo Circuit
-This basic, low cost circuitry demonstrates the principle of operation of an FES device as it would function to alleviate 'drop foot'. It makes use of a Raspberry Pi Pico microcontroller programmed in Micropython. The demonstration simulation can be found on [Wokwi](https://wokwi.com/projects/352395885318022145)
+This basic, low cost circuitry demonstrates the principle of operation of an FES device as it would function to alleviate 'drop foot'. It makes use of a Raspberry Pi Pico microcontroller programmed in Micropython. The demonstration simulation can be found on [Wokwi](https://wokwi.com/projects/352395885318022145) (https://wokwi.com/projects/352395885318022145)
  
 ![image](https://user-images.githubusercontent.com/50867224/209982222-928cc592-ebdf-4024-aaac-51fc3782ae9e.png)
 
