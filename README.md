@@ -1,5 +1,5 @@
 # FES-demo-RPiPico
-Code and circuit setup for Raspberry Pi Pico to demonstrates principle of operation of  FES (Functional Electrical Stimulation) 
+Code and circuit setup for Raspberry Pi Pico to demonstrate principle of operation of FES (Functional Electrical Stimulation) 
 
 ## Background
 Functional Electrical Stimulation (FES) is an assistive technology commonly used to help overcome ‘drop foot’ by stimulating the peroneal nerve though skin surface electrodes contracting the tibialis anterior and lifting the foot. A pressure sensing ‘footswitch’ is also worn under the patient’s heel so that the stimulation can be applied with correct timing as the patient walks.
