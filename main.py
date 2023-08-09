@@ -5,7 +5,7 @@ import time
 footswitch  = machine.Pin(15, machine.Pin.IN, machine.Pin.PULL_DOWN)
 
 #set up a servo output
-servo = machine.Pin(27)             #assigns pin 17 as servo signal
+servo = machine.Pin(27)             #assigns pin as servo signal
 servo_pwm = machine.PWM(servo)      #declares servo pin as Pulse Width Modulation
 servo_pwm.freq(50)
 
